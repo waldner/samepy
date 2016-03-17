@@ -8,7 +8,7 @@ The only dependency is the pygame library. The game should work with python2 and
 
 Screenshot:
 
-same-screenshot
+![same.py screenshot](https://github.com/waldner/samepy/blob/master/same-screenshot.png "same.py screenshot")
 
 Running the program with **-h** or **--help** shows the supported options:
 
